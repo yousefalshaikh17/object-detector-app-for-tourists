@@ -1,3 +1,4 @@
+# Object Detector App for Tourists (Android)
 ### Overview
 
 This is an Android application designed to help tourists identify unfamiliar objects by using real-time object detection and translation. The app utilizes YOLOv5, a state-of-the-art deep learning model, to recognize objects through the device’s camera, providing instant identification and translation into the user’s preferred language. Additionally, the app offers text-to-speech functionality to pronounce object names, enhancing accessibility for travelers.
